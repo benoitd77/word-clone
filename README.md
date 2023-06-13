@@ -97,7 +97,7 @@ As the user submits guesses, their guess will populate the cells:
 
 ![Screen recording showing each guess being added to the 5x6 grid](docs/words-in-cells.gif)
 
-We need to update our DOM structure for the `GuessResults` component so that it looks something like this:
+We need to update our DOM structure for the `Guess` component so that it looks something like this:
 
 ```html
 <div class="guess-results">
